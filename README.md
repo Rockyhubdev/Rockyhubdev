@@ -1,6 +1,6 @@
-<!-- Banner Superior -->
+<!-- Top Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Rocky+%F0%9F%91%8B;Programador+Pro+y+Owner+de+Code+Labs+Studio;Amante+del+c%C3%B3digo+%26+la+IA+%F0%9F%94%A5;Bienvenido+a+mi+universo+tech+%F0%9F%8C%90" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rocky+%F0%9F%91%8B;Pro+Developer+and+Owner+of+Code+Labs+Studio;Lover+of+Code+%26+AI+%F0%9F%94%A5;Welcome+to+my+Tech+Universe+%F0%9F%8C%90" />
 </p>
 
 ---
@@ -8,14 +8,14 @@
 ## 🧑‍💻 About Me
 
 🌟 **Rocky** (He/Him) — Owner & Creator at **Code Labs Studio**.  
-💼 Profesional en desarrollo, programación y automatización de alto nivel.  
-🤖 Usuario avanzado de **IA** para acelerar ideas y construir soluciones reales.  
-💡 Mi filosofía: *Crear, Aprender, Mejorar, Repetir*.  
-🎯 Objetivo: Expandir el código al mundo y compartirlo con estilo.
+💼 Professional in development, programming, and advanced automation.  
+🤖 I fully leverage **AI** to build real solutions and accelerate projects.  
+💡 My mindset: *Create, Learn, Improve, Repeat*.  
+🎯 Goal: Expand code to the world and share it with style.
 
 ---
 
-## 🛠️ Tech Stack Avanzado
+## 🛠️ Advanced Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -36,7 +36,7 @@
 
 ---
 
-## 🧠 Other Tools & Frameworks
+## 🧠 Tools & Platforms I Use
 
 <p align="left">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -49,7 +49,7 @@
 
 ---
 
-## 📬 Contact
+## 📬 Contact Me
 
 <p>
   <a href="https://t.me/Rockyglp"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
@@ -57,7 +57,7 @@
 
 ---
 
-## 💖 Support Me on Patreon
+## ☕ Support Me on Patreon
 
 <p>
   <a href="https://www.patreon.com/c/RockyHubDev" target="_blank">
@@ -69,28 +69,29 @@
 
 ## 🌟 Featured Projects
 
-✨ Algunos proyectos de los que estoy orgulloso:
+✨ Projects I'm proud of:
 
-- 🔥 **CodeWave** — motor modular para apps de alto rendimiento (Node.js)
-- 🎛 **AutoFlux** — sistema que automatiza publicaciones usando IA
-- 📡 **API Sentinel** — monitor API con alertas inteligentes
-- 🎨 **PixelDash** — dashboard visual con animaciones en tiempo real
-- ⚙️ **TaskForge** — sistema de tareas para equipos DevOps
-- 📦 **PackTrack CLI** — herramienta de seguimiento de paquetes en la terminal
+- 🔥 **CodeWave** — Modular engine for high-performance apps (Node.js)
+- 🎛 **AutoFlux** — AI-powered automated publishing system
+- 📡 **API Sentinel** — API monitoring with smart alerts
+- 🎨 **PixelDash** — Animated dashboard for live metrics
+- ⚙️ **TaskForge** — Team-focused task automation system
+- 📦 **PackTrack CLI** — CLI tool for real-time parcel tracking
+
+---
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHQ0d3U4bmg0MWxtaXlxZHlzeGRoajMyeWFqdGN5Nm4zNGxlbzN4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1bzBwbsMvFntbk66rx/giphy.gif" width="1000"/>
+</p>
+
+<p align="center">
+  <b><i>"Code isn’t just logic... it’s silent art."</i></b>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ABDE3,36BCF7,5F27CD&height=100&section=footer"/>
 </p>
 
-<p align="center">
-  <b><i>"Código no es solo lógica... es arte hecho en silencio."</i></b>
-</p>
 
----
-
-<!-- Footer decorativo -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
-</p>
