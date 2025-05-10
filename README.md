@@ -1,57 +1,68 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1C2C,100:928DAB&height=250&section=header&text=Namaste%20🙏%20I'm%20Rocky&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=250&section=header&text=Welcome,%20Traveler.&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-## 👋 About Me
+## 🖤 Rocky | Code Alchemist at Code Labs Studio
 
-💻 My name is **Rocky** (He/Him), a **professional programmer** and proud **owner of Code Labs Studio** 🚀.  
-🌱 I thrive on learning and creating in the name of **code**, building things that *make people say wow*.  
-🔥 I believe in growth through technology, creation, and automation — with a little help from AI 🤖 (yes, I use it fully).
+> *"In the shadows of code, I forge the light of innovation."*
+
+🧙‍♂️ I’m **Rocky** (He/Him), a professional programmer and the **founder of Code Labs Studio** —  
+a digital forge where ideas become realities and lines of code become spells.
+
+🧠 I master code like a warrior wields his blade. Whether backend, frontend or automation:  
+**I bend the machine to my will.**  
+⚙️ My path is guided by curiosity, creation and command-line chaos (powered by full AI).
 
 ---
 
-## 🧰 Tech Stack (Veteran Level 💼)
+## ⚔️ Tech Arsenal
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/Git-FF6C37?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-202020?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 ---
 
-## 💬 Contact Me
+## 🕯️ Connect With The Creator
 
 <p>
-  <a href="https://t.me/Rockyglp"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/Rockyglp"><img src="https://img.shields.io/badge/Telegram-Rockyglp-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 ---
 
-## ☕ Support Me
+## 🌌 Featured Repositories
 
-<p>
-  <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-</p>
-
----
-
-## 📌 Featured Projects
-
-Here are some cool open-source vibes:
-
-- 🚀 **Ultimate Terminal UI** — a hyper terminal theme system for power users  
-- 🌐 **Next-AI Boilerplate** — starter template with Next.js + OpenAI integration  
-- 🔒 **SecureVault** — Node.js-based end-to-end encrypted password manager  
-- 📦 **NPM Auto Publisher** — GitHub action to automate npm publishing  
-- 📊 **Metrics Dashboard** — Real-time server stats with Socket.IO + Chart.js  
-- 🎨 **DevPortfolio Magic** — A stunning portfolio template for devs using Tailwind
+- 🧠 **FluxFeed** – Node.js AI pipeline that posts breaking news to Discord from multiple sources.  
+- 🧪 **DarkLab CLI** – A terminal toolkit for system automation + AI routines.  
+- 🛡️ **SecureChronicles** – Encrypted markdown journaling app for devs.  
+- ⚡ **SocketSurge** – Real-time server performance dashboard with WebSocket magic.  
+- 🎨 **CodeMonastery** – Dev portfolio template with medieval UI design.  
+- 🕸️ **WebForgeX** – Next.js + Tailwind CSS rapid deployment boilerplate.
 
 ---
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300" /><br/>
-<i>Keep Coding. Keep Creating. Keep Conquering.</i>
+## 🎁 Support My Forge
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1C2C,100:928DAB&height=120&section=footer"/>
+> *"A warm cup in the cold keeps the forge burning."*
+
+<a href="https://www.patreon.com/c/RockyHubDev" target="_blank">
+  <img src="https://img.shields.io/badge/Support%20me%20on-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
+</a>
+
+---
+
+## 🎇 Vibes From The Lab
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHV6MGdrcWk5OW5lcHNrOHZ0NzVwb2ZhbWtwOWQ3eXZkY3F6ZWl0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MFvjH4LZ2B0uG/giphy.gif" width="500"/>
+
+---
+
+> _"Code is not just syntax. It's poetry, protection, and power."_  
+> — Rocky, Code Labs Studio 🧩
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=footer"/>
