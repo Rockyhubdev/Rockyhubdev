@@ -57,16 +57,6 @@
 
 ---
 
-## ☕ Support Me on Patreon
-
-<p>
-  <a href="https://www.patreon.com/RockyHubDev/gift" target="_blank">
-    <img src="https://img.shields.io/badge/Invite%20Me%20a%20Coffee-ff424d?style=for-the-badge&logo=patreon&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🌟 Featured Projects
 
 ✨ Projects I'm proud of:
